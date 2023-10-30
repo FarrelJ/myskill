@@ -1,2 +1,3 @@
 # myskill
-coba test
+mencoba commit dulu
+
